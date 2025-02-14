@@ -1,6 +1,5 @@
 *.dart linguist-detectable=true
-*.dart linguist-language=Dart
 *.cpp linguist-language=false
-*.cmake linguist-language=false
+*.CMake linguist-language=false
 
 
