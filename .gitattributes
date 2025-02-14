@@ -1,11 +1,2 @@
-*.cpp linguist-vendored
-
-# Force GitHub to detect Dart as the primary language
-*.dart linguist-detectable=true
-*.cpp linguist-detectable=false
-
-# Ignore C++ and CMake from language detection
-*.h linguist-vendored
-*.hpp linguist-vendored
-*.cmake linguist-vendored
-CMakeLists.txt linguist-vendored
+* linguist-vendored
+*.dart linguist-vendored=false
