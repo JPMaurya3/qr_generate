@@ -41,5 +41,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-*.c++ linguist-detectable=false
+##git ignore
+*.C++ linguist-detectable=false
 
