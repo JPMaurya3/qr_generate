@@ -1,6 +1,6 @@
 # Force GitHub to detect Dart as the primary language
 *.dart linguist-detectable=true
-*.dart linguist-language=Dart
+*.cpp linguist-detectable=false
 
 # Ignore C++ and CMake from language detection
 *.cpp linguist-vendored
